@@ -1,2 +1,4 @@
-# sql
-SQL practice
+# SQL
+
+## Creating Databases and Tables
+
